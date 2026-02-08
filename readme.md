@@ -11,7 +11,7 @@ Permite consultar reparto, sueldos y relaciones entre actores y teleseries.
 - Modelo Normalizado con tablas actor, reparto_actor y teleserie.
 
 ## Estructura del Proyecto
-![estructura](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/estructura-proyecto.png)
+![estructura](https://github.com/AlvarezF7/M5-evaluacion-final/blob/main/er_capturas/Estructura_proyecto.png)
 
 
 ## Consultas incluidas
@@ -34,7 +34,8 @@ Permite consultar reparto, sueldos y relaciones entre actores y teleseries.
 
 - Ejecutar el script sql/m5-evaluacion-final.sql
 - Ejecutar las consultas incluidas o agregar nuevas según se necesite.
-
-
+  
+## Autor
+Fernanda Álvarez F. para curso FullStack  JavaScript Sence 2026.
  
 
